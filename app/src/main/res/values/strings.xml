@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Formless Torrent</string>
+    <string name="no_files">No Files Downloaded</string>
+    <string name="search">Search for Files</string>
+    <string name="search_hint">Enter Search Term</string>
+    <string name="search_button">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
